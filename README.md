@@ -1,5 +1,6 @@
 # Blog-Auth
-Sign up field connected to firebase with login authentication
+A Vuejs authentication for login with firebase
+
 ## Project setup
 ```
 npm install
