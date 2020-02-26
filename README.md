@@ -1,5 +1,5 @@
-# giftblog
-
+# Blog-Auth
+Sign up field connected to firebase with login authentication
 ## Project setup
 ```
 npm install
