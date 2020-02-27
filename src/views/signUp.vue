@@ -97,6 +97,7 @@ export default {
     }
     .gotAccount{
         font-size: 10px !important;
+        color: black !important;
     }
 }
 .footer{
