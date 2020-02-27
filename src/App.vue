@@ -8,7 +8,9 @@
 <script>
 import loginPage from '@/components/loginPage.vue'
 export default {
-  'app-login': loginPage
+  components: {
+    'app-login': loginPage
+  }
 }
 </script>
 
