@@ -28,7 +28,7 @@ export default {
 }
 .rout{
   color: white;
-  padding: 10px 50px;
+  padding: 8px 25px;
   background-color: black;
   border-radius: 10px !important;
   text-decoration: none;

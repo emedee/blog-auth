@@ -85,10 +85,12 @@ export default {
         
     }
     .input{
-        padding: 10px 80px 10px 10px !important;
+        padding: 10px 130px 10px 10px !important;
+        font-size: 10px !important;
     }
     .btn-signUp{
         padding: 15px 120px 15px !important;
+        font-size: 10px !important
     }
     .left-side{
         width: 100% !important;
