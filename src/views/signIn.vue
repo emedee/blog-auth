@@ -93,7 +93,7 @@ export default {
     .left-side{
         width: 100% !important;
         height: 100vh !important;
-        padding-top: 50px !important;
+        padding-top: 70px !important;
         display: flex !important;
         flex-direction: column !important;
         align-items: center !important;
@@ -108,7 +108,7 @@ export default {
         color: #E5E5E5 !important;
     }
     .newAccount{
-        width: 50% !important;
+        width: 70% !important;
     }
     .gotAccount{
         font-size: 10px !important;
