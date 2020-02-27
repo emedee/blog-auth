@@ -68,15 +68,15 @@ export default {
         
     }
     .input{
-        padding: 22px 150px 24px 20px !important;
+        padding: 15px 100px 15px 15px !important;
     }
     .btn-signUp{
-        padding: 21px 145px 25px !important;
+        padding: 15px 120px 15px !important;
     }
     .left-side{
-        width: auto !important;
+        width: 100% !important;
         height: 100vh !important;
-        padding: 20px !important;
+        padding: 50px !important;
         display: flex !important;
         flex-direction: column !important;
         align-items: center !important;
