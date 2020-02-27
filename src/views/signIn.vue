@@ -85,15 +85,15 @@ export default {
         
     }
     .input{
-        padding: 15px 100px 15px 15px !important;
+        padding: 10px 80px 10px 10px !important;
     }
     .btn-signUp{
         padding: 15px 120px 15px !important;
     }
     .left-side{
-        width: auto !important;
+        width: 100% !important;
         height: 100vh !important;
-        padding: 50px !important;
+        padding-top: 50px !important;
         display: flex !important;
         flex-direction: column !important;
         align-items: center !important;
@@ -106,6 +106,12 @@ export default {
     }
     .welcome{
         color: #E5E5E5 !important;
+    }
+    .newAccount{
+        width: 50% !important;
+    }
+    .gotAccount{
+        font-size: 10px !important;
     }
 }
 p{

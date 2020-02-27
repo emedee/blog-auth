@@ -4,7 +4,7 @@
         <div class="body">
             <div class="left-side">
                 <p class="welcome">Welcome</p>
-                <p class="newAccount">Please Create new account to join our community <br> of bloggers</p>
+                <p class="newAccount">Please Create new account to join our community of bloggers</p>
                 <input type="text" name="" id="" placeholder="Full Name" class="input" v-model="signupField.fullName">
                 <input type="email" name="" id="" placeholder="Email address" class="input" v-model="signupField.emailAddress">
                 <input type="text" name="" id="" placeholder="Country" class="input" v-model="signupField.country">
@@ -68,7 +68,7 @@ export default {
         
     }
     .input{
-        padding: 15px 100px 15px 15px !important;
+        padding: 10px 80px 10px 10px !important;
     }
     .btn-signUp{
         padding: 15px 120px 15px !important;
@@ -76,7 +76,7 @@ export default {
     .left-side{
         width: 100% !important;
         height: 100vh !important;
-        padding: 50px !important;
+        padding-top: 50px !important;
         display: flex !important;
         flex-direction: column !important;
         align-items: center !important;
@@ -89,6 +89,12 @@ export default {
     }
     .welcome{
         color: #E5E5E5 !important;
+    }
+    .newAccount{
+        width: 50% !important;
+    }
+    .gotAccount{
+        font-size: 10px !important;
     }
 }
 .footer{
